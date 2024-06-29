@@ -32,17 +32,17 @@
   - Link commits to issues.
   - Close issues using commits.
 
-### Day 6: Exploring GitHub Actions
-- **Objective**: Introduction to GitHub Actions for automation.
-- **Tasks**:
-  - Learn about CI/CD pipelines and GitHub Actions.
-  - Set up a simple action to run checks on commits.
-
-### Day 7: Collaborating on Projects
+### Day 6: Collaborating on Projects
 - **Objective**: Apply the skills learned to collaborate on projects.
 - **Tasks**:
   - Fork an existing repository.
   - Clone the fork to your local machine.
   - Contribute to the project by making changes and submitting a pull request.
 
+### Day 7: Exploring GitHub Actions
+- **Objective**: Introduction to GitHub Actions for automation.
+- **Tasks**:
+  - Learn about CI/CD pipelines and GitHub Actions.
+  - Set up a simple action to run checks on commits.
+    
 Each day, the learner should document their progress and reflections in their repository, possibly using the Wiki feature on GitHub to keep track of learned concepts and hurdles encountered. This hands-on approach not only reinforces the learning but also showcases the learner’s growing GitHub portfolio.
